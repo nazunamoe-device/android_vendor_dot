@@ -15,6 +15,14 @@ PRODUCT_PACKAGES += \
 # Fraunces family
 PRODUCT_PACKAGES += \
     Fraunces-SemiBold.ttf
+    
+# Other fonts
+PRODUCT_PACKAGES += \
+    LGSmartGothic.ttf \
+    Rosemary-Regular.ttf \
+    SamsungOne.ttf \
+    Shamshung.ttf \
+    SimpleDay.ttf    
 
 # BigShouldersText family
 PRODUCT_PACKAGES += \
